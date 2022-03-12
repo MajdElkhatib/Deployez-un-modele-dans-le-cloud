@@ -9,7 +9,7 @@ de mettre en place une première version du moteur de classification des images 
 De plus, le développement de l’application mobile permettra de construire une première version de l'architecture Big Data nécessaire.
 
 # Les données
-L’existence d’un [jeu de donnée](https://www.kaggle.com/moltean/fruits) constitué des images de fruits et des labels associés,
+Le [jeu de donnée](https://www.kaggle.com/moltean/fruits) constitué des images de fruits et des labels associés,
 qui pourra servir de point de départ pour construire une partie de la chaîne de traitement des données.
 
 # Mission
