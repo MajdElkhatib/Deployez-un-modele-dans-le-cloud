@@ -26,3 +26,9 @@ celle proposée gratuitement (EC2 = t2.micro, 1 Go RAM, 8 Go disque serveur).
 # Livrables
 * Un notebook sur le cloud contenant les scripts en Pyspark exécutables (le preprocessing et une étape de réduction de dimension).
 * Un support de présentation 
+
+
+# Compétences évaluées
+* Paralléliser des opérations de calcul avec Pyspark
+* Utiliser les outils du cloud pour manipuler des données dans un environnement Big Data
+* Identifier les outils du cloud permettant de mettre en place un environnement Big Data
